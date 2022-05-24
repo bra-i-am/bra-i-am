@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bra-i-am/bra-i-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,14 +16,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Brayan Cerón Aguirre</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Cali, Colombia</h3>
 
-🧘 ~ Disfruto existir, hacerme preguntas complejas, rebuscar soluciones y asirme de las respuestas más sensatas. El conocimiento me ha permitido ver más allá de lo que creía posible, a abordar los "límites" de mis posibilidades como espacios que puedo visitar si me muevo lo suficiente; considero no existe límite para la capacidad humana, solo humanos convencidos de ello.
-
-🎓 ~ Me he formado como:
+🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 
 - Full Stack Web Developer por amor a la tecnología y cuento con experiencia trabajando con JavaScript en NodeJS, React, Redux, PostgreSQL con Sequelize entre otras tecnologías. 
 - Psicólogo de profesión con énfasis en Educación y en Procesos Organizacionales e interés en los procesos concernientes a la UX/UI.
 - Diseñador por hobby con experiencia empírica en Photoshop, Illustrator, Figma, entre otras.
 
-🧩 ~ Tengo claridad de mi papel como humano en sociedad:
+🧩 🧩 🧩 🧩 🧩 🧩 🧩 🧩 🧩 🧩 🧩 🧩 🧩 🧩 🧩 🧩 🧩 🧩 🧩 
 - Me considero un individuo autónomo y comprometido con mi proceso
 - Resiliente ante las diversas dificultades presentes en el camino
 - Sobre-estimo el poder del diálogo y la conciliación como el mejor medio para hacer comunidad
