@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Brayan Cerón Aguirre</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Cali, Colombia</h3>
 
-🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 
+<center>🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓 🎓</center>
 - Full Stack Web Developer por amor a la tecnología y cuento con experiencia trabajando con JavaScript en NodeJS, React, Redux, PostgreSQL con Sequelize entre otras tecnologías. 
 - Psicólogo de profesión con énfasis en Educación y en Procesos Organizacionales e interés en los procesos concernientes a la UX/UI.
 - Diseñador por hobby con experiencia empírica en Photoshop, Illustrator, Figma, entre otras.
