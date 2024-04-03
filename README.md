@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brayan Cerón Aguirre</h1>
+<h1 align="center">Hi 👋</h1>
 
 ###
 
