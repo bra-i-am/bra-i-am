@@ -52,9 +52,3 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="38" alt="redux logo"  />
 </div>
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bra-i-am.bra-i-am&left_color=darkgoldenrod&right_color=darkviolet"  />
-
-###
