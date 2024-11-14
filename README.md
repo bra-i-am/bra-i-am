@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm a Web Developer</h3>
+<h3 align="center">I'm a Web Developer from Colombia 🇨🇴</h3>
 
 ###
 
@@ -10,6 +10,14 @@
   <a href="https://linkedin.com/in/brayanceron" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+
+<div align="center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bra-i-am&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="bra-i-am" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bra-i-am&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="bra-i-am" /></p>
 </div>
 
 ###
